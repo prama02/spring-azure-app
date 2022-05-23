@@ -11,7 +11,7 @@ public class SpringDemoApplication {
 	
 	@GetMapping("/message")
 	public String message() {
-		return "Congrats! you have successfully deployed Spring boot app to azure";
+		return "Love you Manasa lotsssssssss!!";
 	}
 
 	public static void main(String[] args) {
